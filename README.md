@@ -4,7 +4,7 @@
 
 This repository contains the implementation of a triangle detection system using YOLOv8, as part of the BigVision assessment. The project focuses on detecting triangles in images of varying sizes, colors, and backgrounds.
 
-## 🌟 [Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/harxsan/Triangle-Detector)
+## 🌟 [Live Demo on Hugging Face Spaces - Click Here](https://huggingface.co/spaces/harxsan/Triangle-Detector)
 
 Try the model in action without any setup! Upload any image and see the triangle detection results in real-time.
 
