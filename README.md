@@ -2,7 +2,7 @@
 
 ![Triangle Detection Banner](https://img.shields.io/badge/Computer%20Vision-Triangle%20Detection-blue) ![YOLOv8](https://img.shields.io/badge/Model-YOLOv8-darkgreen) ![Gradio](https://img.shields.io/badge/UI-Gradio-orange)
 
-This repository contains the implementation of a triangle detection system using YOLOv8, as part of the BigVision assessment. The project focuses on detecting triangles in images of varying sizes, colors, and backgrounds.
+This repository contains the implementation of a triangle detection system using YOLOv8 for a custom object-detection exercise. The project focuses on detecting triangles in images of varying sizes, colors, and backgrounds.
 
 ## 🌟 [Live Demo on Hugging Face Spaces - Click Here](https://huggingface.co/spaces/harxsan/Triangle-Detector)
 
@@ -112,11 +112,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🔗 Contact
 
-Feel free to connect with me for any questions or collaboration opportunities!
-
 - GitHub: [HarxSan](https://github.com/HarxSan)
 - Hugging Face: [harxsan](https://huggingface.co/harxsan)
 
 ---
 
-*This project was created as part of the BigVision assessment for custom object detection*
+*This project was created as a custom object-detection exercise*
